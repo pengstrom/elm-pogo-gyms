@@ -1,0 +1,36 @@
+@import '~bootstrap/scss/_mixins.scss';
+@import '~bootstrap/scss/bootstrap.scss';
+
+// can add Boostrap overrides, additional Sass/CSS below...
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.Mystic{
+    margin: 0;
+    padding: 10px;
+    background-color: #0075C7;
+    color: white;
+}
+
+.Valor{
+    margin: 0;
+    padding: 10px;
+    background-color: #D30000;
+    color: white;
+}
+
+.Instinct{
+    margin: 0;
+    padding: 10px;
+    background-color: #FFC600;
+    color: white;
+}
+
+.gym-info {
+  width: 33%;
+}

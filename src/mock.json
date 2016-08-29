@@ -1,0 +1,58 @@
+{
+    "gyms": [
+        {
+            "name": "Angstom",
+            "level": 3,
+            "exp": 6123,
+            "nextlevel": 8000,
+            "owner": "mystic",
+            "url": "herp",
+            "emptyslots": 0,
+            "trainers": [
+                {
+                    "nick": "Legopelle",
+                    "level": 15,
+                    "pokemon": {
+                        "name": "Pidgey",
+                        "cp": 15
+                    }
+                },
+                {
+                    "nick": "Nittilina",
+                    "level": 17,
+                    "pokemon": {
+                        "name": "Eevee",
+                        "cp": 1115
+                    }
+                },
+                {
+                    "nick": "Kobbe",
+                    "level": 18,
+                    "pokemon": {
+                        "name": "Pidgeot",
+                        "cp": 2115
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ITC",
+            "level": 2,
+            "exp": 2123,
+            "nextlevel": 4000,
+            "owner": "valor",
+            "url": "derp",
+            "emptyslots": 1,
+            "trainers": [
+                {
+                    "nick": "Legopelle",
+                    "level": 15,
+                    "pokemon": {
+                        "name": "Pidgey",
+                        "cp": 15
+                    }
+                }
+            ]
+        }
+    ]
+}
