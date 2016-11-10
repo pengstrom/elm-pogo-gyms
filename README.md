@@ -1,5 +1,5 @@
 # Gym rankings
-Display the gyms near the Ångström campus
+Display the gyms near the Ångström campus, written in Elm!
 
 ## Installation
 Run
